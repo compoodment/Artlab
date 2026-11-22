@@ -1,11 +1,11 @@
-# ArtLab changelog
+# Artlab changelog
 
-Notable changes in public ArtLab releases, newest first.
+Notable changes in public Artlab releases, newest first.
 
 ## 0.7.0-alpha.1 — 2026-11-21
 
 The first public Rust release brings 46 effects to the new editor. The free
-Linux alpha ships as a 64-bit Debian package under the ArtLab Alpha Licence.
+Linux alpha ships as a 64-bit Debian package under the Alpha Licence bundled with that release.
 It was tested on Debian 13 and Ubuntu 24.04. Earlier releases keep their
 original licences.
 
@@ -35,10 +35,10 @@ original licences.
 - **Export as…** adds JPEG with adjustable quality and lossless WebP. Ordinary
   PNG, JPEG and WebP can export at full size or at a smaller size you choose.
 - **AVIF** opens without an extra image loader. For PNG, JPEG and WebP with a
-  supported embedded colour profile, ArtLab converts the image to sRGB on open
+  supported embedded colour profile, Artlab converts the image to sRGB on open
   and tags still exports as sRGB.
 - **Check for updates** is available in Settings and starts off. Turning it on
-  lets ArtLab tell you when a later version is available.
+  lets Artlab tell you when a later version is available.
 - **Help → About** shows the exact build alongside the version. File can open
   the project, exports and templates folders directly.
 
@@ -57,7 +57,7 @@ original licences.
   A recovery session remains with its open window and becomes available on
   Welcome after that window exits. Restore or Discard clears the card once the
   operation succeeds.
-- If another window has saved a newer project revision, ArtLab explains the
+- If another window has saved a newer project revision, Artlab explains the
   conflict and tells you to reopen it or save a separate copy.
 - **Properties** accepts exact typed values and keyboard steps. Double-clicking
   a slider restores its default. Controls report their names and values to screen
@@ -92,7 +92,7 @@ Export a finished image from Python to start a new Rust project from it.
 
 The last public Python alpha has 43 effects and a new window style.
 
-- Edit in ArtLab's new window with square controls and dithered highlights.
+- Edit in Artlab's new window with square controls and dithered highlights.
 - Find effect settings in collapsible groups, and set line-based effects to run
   across or down the image.
 - The editor opens projects with retired effects and tells you which layers
@@ -132,7 +132,7 @@ The last public Python alpha has 43 effects and a new window style.
 
 ### Upgrade notes
 
-ArtLab identifies and skips layers that use Chrome, Sculpture, Polygon or Venom
+Artlab identifies and skips layers that use Chrome, Sculpture, Polygon or Venom
 when opening a project or restoring work. Save under a new name to keep the
 original project with those layers intact.
 
@@ -231,7 +231,7 @@ The first public alpha was a local Linux image editor under the MIT licence.
 - Full-size PNG export uses a fresh filename. It saves recipe settings and the
   original file's path so the editor can reuse the settings later.
 - Save an effect stack as a template, or apply the saved effects from an
-  ArtLab PNG to another image.
+  Artlab PNG to another image.
 - Open PNG, JPEG, TIFF, GIF, BMP or WebP. DNG uses the camera's embedded preview.
   HEIC and AVIF use an optional loader. The preview fits within 640 pixels and
   a PNG can export up to 16 million pixels.

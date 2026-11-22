@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://artlab.putment.com"><img src="https://artlab.putment.com/assets/orb-512.png"
-width="128" alt="ArtLab"></a><br>ArtLab</h1>
+width="128" alt="Artlab"></a><br>Artlab</h1>
 
 <p align="center"><b>A free desktop photo and art editor.</b><br>
 <a href="https://artlab.putment.com">Website</a> · <a href="#install-the-desktop-app">Install</a> ·
@@ -8,13 +8,13 @@ width="128" alt="ArtLab"></a><br>ArtLab</h1>
 
 ## What it is
 
-ArtLab is a desktop editor for layered print, colour and distortion effects. Try effects live on an image, paint
+Artlab is a desktop editor for layered print, colour and distortion effects. Try effects live on an image, paint
 where they apply, and save a project to edit again. Export a PNG, JPEG or WebP, or record a short looping GIF.
 
-ArtLab is in alpha: it works, but things can change between versions. Back up projects you care about.
+Artlab is in alpha: it works, but things can change between versions. Back up projects you care about.
 
-This repository holds ArtLab's downloads, its [changelog](CHANGELOG.md), its licence and its issue tracker.
-ArtLab's source code isn't public.
+This repository holds Artlab's downloads, its [changelog](CHANGELOG.md), its licence and its issue tracker.
+Artlab's source code isn't public.
 
 ## How to get it
 
@@ -37,24 +37,24 @@ ArtLab's source code isn't public.
    sudo apt install ./artlab_0.7.0-alpha.1_amd64.deb
    ```
 
-4. Choose **ArtLab** in the applications menu. The [guide](https://artlab.putment.com/docs/) walks through
+4. Open the editor from the applications menu. The [guide](https://artlab.putment.com/docs/) walks through
    opening an image and saving your work.
 
 The installer adds the app icon and registers `.artlab` projects with the file manager. HEIC import requires
 the optional `libheif1` package at version 1.23.6 or later in the 1.x series, with an HEVC decoder.
 
-To remove ArtLab, remove it in your software installer or run `sudo apt remove artlab`. Your projects and exports
+To remove Artlab, remove it in your software installer or run `sudo apt remove artlab`. Your projects and exports
 stay in your folders.
 
 ## Licence
 
-ArtLab is free to use under the [ArtLab Alpha Licence](LICENSE). Get it only from this repository's releases or
+Artlab is free to use under the [Alpha Licence](LICENSE). Get it only from this repository's releases or
 the [website's download page](https://artlab.putment.com/download/). Its bundled components keep their own
-licences: see [notices/](notices/), the same files ArtLab installs in `/usr/share/doc/artlab`.
+licences: see [notices/](notices/), the same files Artlab installs in `/usr/share/doc/artlab`.
 
 ## Privacy
 
-ArtLab doesn't send your pictures or projects anywhere. The optional update check, off until you switch it on in
+Artlab doesn't send your pictures or projects anywhere. The optional update check, off until you switch it on in
 **Edit → Settings…**, asks GitHub once a day whether a newer version is out. Nothing is downloaded.
 
 ## Questions and problems
