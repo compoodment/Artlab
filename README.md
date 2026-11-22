@@ -26,10 +26,10 @@ Artlab's source code isn't public.
 | Ubuntu 24.04 LTS (64-bit x86) | Linux desktop package |
 | Windows | No public package in this release |
 
-1. Download [`artlab_0.7.0-alpha.1_amd64.deb`](https://github.com/compoodment/ArtLab/releases/download/v0.7.0-alpha.1/artlab_0.7.0-alpha.1_amd64.deb).
+1. Download [`artlab_0.7.0-alpha.1_amd64.deb`](https://github.com/compoodment/Artlab/releases/download/v0.7.0-alpha.1/artlab_0.7.0-alpha.1_amd64.deb).
 2. In a terminal in the folder containing the `.deb`, run `sha256sum artlab_0.7.0-alpha.1_amd64.deb`.
    Compare the value printed before the filename with the entry for that file in
-   [`SHA256SUMS`](https://github.com/compoodment/ArtLab/releases/download/v0.7.0-alpha.1/SHA256SUMS).
+   [`SHA256SUMS`](https://github.com/compoodment/Artlab/releases/download/v0.7.0-alpha.1/SHA256SUMS).
 3. Open the verified `.deb` in your software installer and choose **Install**. If the file opens in an
    archive viewer, run the install command in the same terminal.
 
@@ -59,6 +59,6 @@ Artlab doesn't send your pictures or projects anywhere. The optional update chec
 
 ## Questions and problems
 
-Open an [issue](https://github.com/compoodment/ArtLab/issues) for a bug or an idea. Say which version you use:
+Open an [issue](https://github.com/compoodment/Artlab/issues) for a bug or an idea. Say which version you use:
 it's in **Help → About** and in `artlab --version`. For licence questions, or anything you'd rather not post in
 public, email [artlab@putment.com](mailto:artlab@putment.com).

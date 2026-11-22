@@ -86,7 +86,7 @@ If you still have the Python release, use it to open its `.artlab` files. The
 Rust editor uses a new project format and leaves older project files intact.
 Export a finished image from Python to start a new Rust project from it.
 
-[Release and downloads](https://github.com/compoodment/ArtLab/releases/tag/v0.7.0-alpha.1)
+[Release and downloads](https://github.com/compoodment/Artlab/releases/tag/v0.7.0-alpha.1)
 
 ## 0.6.0-alpha.2 — 2026-11-19
 
