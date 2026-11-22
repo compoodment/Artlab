@@ -3,7 +3,8 @@ width="128" alt="ArtLab"></a><br>ArtLab</h1>
 
 <p align="center"><b>A free desktop photo and art editor.</b><br>
 <a href="https://artlab.putment.com">Website</a> · <a href="#install-the-desktop-app">Install</a> ·
-<a href="https://artlab.putment.com/docs/">Guide</a> · <a href="https://artlab.putment.com/effects/">Every effect, played</a></p>
+<a href="https://artlab.putment.com/docs/">Guide</a> · <a href="https://artlab.putment.com/effects/">Every effect, played</a> ·
+<a href="CHANGELOG.md">Changelog</a></p>
 
 ## What it is
 
@@ -12,7 +13,8 @@ where they apply, and save a project to edit again. Export a PNG, JPEG or WebP, 
 
 ArtLab is in alpha: it works, but things can change between versions. Back up projects you care about.
 
-This repository holds ArtLab's downloads, its licence and its issue tracker. ArtLab's source code isn't public.
+This repository holds ArtLab's downloads, its [changelog](CHANGELOG.md), its licence and its issue tracker.
+ArtLab's source code isn't public.
 
 ## How to get it
 
