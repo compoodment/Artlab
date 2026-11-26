@@ -26,15 +26,15 @@ Artlab's source code isn't public.
 | Ubuntu 24.04 LTS (64-bit x86) | Linux desktop package |
 | Windows | No public package in this release |
 
-1. Download [`artlab_0.7.0-alpha.1_amd64.deb`](https://github.com/compoodment/Artlab/releases/download/v0.7.0-alpha.1/artlab_0.7.0-alpha.1_amd64.deb).
-2. In a terminal in the folder containing the `.deb`, run `sha256sum artlab_0.7.0-alpha.1_amd64.deb`.
+1. Download [`artlab_0.8.0-alpha.1_amd64.deb`](https://github.com/compoodment/Artlab/releases/download/v0.8.0-alpha.1/artlab_0.8.0-alpha.1_amd64.deb).
+2. In a terminal in the folder containing the `.deb`, run `sha256sum artlab_0.8.0-alpha.1_amd64.deb`.
    Compare the value printed before the filename with the entry for that file in
-   [`SHA256SUMS`](https://github.com/compoodment/Artlab/releases/download/v0.7.0-alpha.1/SHA256SUMS).
+   [`SHA256SUMS`](https://github.com/compoodment/Artlab/releases/download/v0.8.0-alpha.1/SHA256SUMS).
 3. Open the verified `.deb` in your software installer and choose **Install**. If the file opens in an
    archive viewer, run the install command in the same terminal.
 
    ```sh
-   sudo apt install ./artlab_0.7.0-alpha.1_amd64.deb
+   sudo apt install ./artlab_0.8.0-alpha.1_amd64.deb
    ```
 
 4. Open the editor from the applications menu. The [guide](https://artlab.putment.com/docs/) walks through

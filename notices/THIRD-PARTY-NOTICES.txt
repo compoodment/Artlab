@@ -1,4 +1,4 @@
-ArtLab third-party Rust dependency notices
+Artlab third-party Rust dependency notices
 
 ab_glyph 0.2.32 | Apache-2.0
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
@@ -278,6 +278,20 @@ cpufeatures 0.3.1 | MIT OR Apache-2.0
   LICENSE-APACHE [a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5]
   LICENSE-MIT [73b9dc2e79c7308998dd30296e073aefaefb944a68fb89aa412c23c0edcabcaa]
 
+craft-svg 0.1.0 | MIT OR Apache-2.0
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  upstream eeb5b2619886/LICENSE-APACHE [0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594]
+  upstream eeb5b2619886/LICENSE-MIT [2f42c0cafc8ad394d91373fe1f342aee5453850b151a51405c68cae9ada86d26]
+  upstream eeb5b2619886/NOTICE [6cd50310a0efc48b665e4ded4e296af0860b8d6147a209953ffd471cb7ca2aa5]
+  upstream eeb5b2619886/ATTRIBUTION.md [df9dcd5a6ca11a02d76dba4a10ff6ea60212fe4238f87d3131389d3bdbda345e]
+
+craft-xml 0.1.0 | MIT OR Apache-2.0
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  upstream eeb5b2619886/LICENSE-APACHE [0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594]
+  upstream eeb5b2619886/LICENSE-MIT [2f42c0cafc8ad394d91373fe1f342aee5453850b151a51405c68cae9ada86d26]
+  upstream eeb5b2619886/NOTICE [6cd50310a0efc48b665e4ded4e296af0860b8d6147a209953ffd471cb7ca2aa5]
+  upstream eeb5b2619886/ATTRIBUTION.md [df9dcd5a6ca11a02d76dba4a10ff6ea60212fe4238f87d3131389d3bdbda345e]
+
 crc32fast 1.5.5 | MIT OR Apache-2.0
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE-APACHE [c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08]
@@ -474,6 +488,11 @@ foldhash 0.1.5 | Zlib
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE [b1181a40b2a7b25cf66fd01481713bc1005df082c53ef73e851e55071b102744]
 
+font-types 0.12.7 | MIT OR Apache-2.0
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE-APACHE [eba684204073ed715c4abb48129acdfd2bff8ae48339e6a7da3b341d3027b7f0]
+  LICENSE-MIT [7b4c9a3946dfcea7967582760e963e27799e225dcf20565c8ef55324bb017427]
+
 form_urlencoded 1.2.2 | MIT OR Apache-2.0
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE-APACHE [a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2]
@@ -538,6 +557,11 @@ getrandom 0.4.3 | MIT OR Apache-2.0
   LICENSE-APACHE [aaff376532ea30a0cd5330b9502ad4a4c8bf769c539c87ffe78819d188a18ebf]
   LICENSE-MIT [523a42c25d245dde9c015f882cec7f4555aad883382a6cf19b4b7d9b2cd5419b]
 
+gif 0.13.3 | MIT OR Apache-2.0
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE-APACHE [769f80b5bcb42ed0af4e4d2fd74e1ac9bf843cb80c5a29219d1ef3544428a6bb]
+  LICENSE-MIT [77257f3d2181236b1aee78920238062ae64efe13c5d858b2db126e79c9e1b14f]
+
 gif 0.14.2 | MIT OR Apache-2.0
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE-APACHE [769f80b5bcb42ed0af4e4d2fd74e1ac9bf843cb80c5a29219d1ef3544428a6bb]
@@ -573,6 +597,10 @@ half 2.7.1 | MIT OR Apache-2.0
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE-APACHE [a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9]
   LICENSE-MIT [508a77d2e7b51d98adeed32648ad124b7b30241a8e70b2e72c99f92d8e5874d1]
+
+harfrust 0.12.0 | MIT
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE [3a7c3f0b887abb7c638faf022d29257418458614c6724b120ceeffb279f9c7d2]
 
 hashbrown 0.15.5 | MIT OR Apache-2.0
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
@@ -656,6 +684,10 @@ imagesize 0.13.0 | MIT
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE [436637bd4909fde7e14c899e9ff2cdd440b5968df12d431f1651f11db19bc2ef]
 
+imagesize 0.15.0 | MIT
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE [fa0d694967d5c279e70a5c7b7e4b9929e4c1c8c1b8506998e66fc2f1547b200a]
+
 imgalifier-avif 0.1.0 | MIT AND BSD-2-Clause
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE-MIT [f3ed26907fbd5f04b4ac6f2706b7b99a0bf186c0cc8a2860ff4b05a5668fa83f]
@@ -675,6 +707,11 @@ itoa 1.0.19 | MIT OR Apache-2.0
   LICENSE-MIT [23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3]
 
 kurbo 0.11.3 | Apache-2.0 OR MIT
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE-APACHE [cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30]
+  LICENSE-MIT [23c23145f6eac25c28cdcc03d38506a5712a9a8cffb5bd5301457f6173ea696e]
+
+kurbo 0.13.1 | Apache-2.0 OR MIT
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE-APACHE [cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30]
   LICENSE-MIT [23c23145f6eac25c28cdcc03d38506a5712a9a8cffb5bd5301457f6173ea696e]
@@ -831,6 +868,11 @@ png 0.17.16 | MIT OR Apache-2.0
   LICENSE-APACHE [a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2]
   LICENSE-MIT [eaf40297c75da471f7cda1f3458e8d91b4b2ec866e609527a13acfa93b638652]
 
+png 0.18.1 | MIT OR Apache-2.0
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE-APACHE [a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2]
+  LICENSE-MIT [eaf40297c75da471f7cda1f3458e8d91b4b2ec866e609527a13acfa93b638652]
+
 polling 3.11.0 | Apache-2.0 OR MIT
   Targets: x86_64-unknown-linux-gnu
   LICENSE-APACHE [a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2]
@@ -840,6 +882,11 @@ pollster 0.4.0 | Apache-2.0/MIT
   Targets: x86_64-unknown-linux-gnu
   LICENSE-APACHE [a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2]
   LICENSE-MIT [cc02a53316678ca2575cc69d12daa7b1833935d4b7742c31fbab7bd74a481077]
+
+polycool 0.4.0 | MIT OR Apache-2.0
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE-APACHE [cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30]
+  LICENSE-MIT [23c23145f6eac25c28cdcc03d38506a5712a9a8cffb5bd5301457f6173ea696e]
 
 potential_utf 0.1.6 | Unicode-3.0
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
@@ -918,7 +965,17 @@ rayon-core 1.13.0 | MIT OR Apache-2.0
   LICENSE-APACHE [a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2]
   LICENSE-MIT [0621878e61f0d0fda054bcbe02df75192c28bde1ecc8289cbd86aeba2dd72720]
 
+read-fonts 0.41.0 | MIT OR Apache-2.0
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE-APACHE [eba684204073ed715c4abb48129acdfd2bff8ae48339e6a7da3b341d3027b7f0]
+  LICENSE-MIT [7b4c9a3946dfcea7967582760e963e27799e225dcf20565c8ef55324bb017427]
+
 resvg 0.45.1 | Apache-2.0 OR MIT
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE-APACHE [a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9]
+  LICENSE-MIT [f5d934dc281b44e0003ee461ac740b18b6629a454decd872c774d34e4ee0b21d]
+
+resvg 0.48.1 | Apache-2.0 OR MIT
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE-APACHE [a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9]
   LICENSE-MIT [f5d934dc281b44e0003ee461ac740b18b6629a454decd872c774d34e4ee0b21d]
@@ -932,6 +989,11 @@ rgb 0.8.53 | MIT
   LICENSE [457b464bc0fba8a3d67d2458569104f5611869f0c1563a1a12d9c51a0bca9261]
 
 roxmltree 0.20.0 | MIT OR Apache-2.0
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE-APACHE [a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2]
+  LICENSE-MIT [fffe218c1e349e1d482a05677f2ce850502f88298174d77f6ac7c04821db7899]
+
+roxmltree 0.21.2 | MIT OR Apache-2.0
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE-APACHE [a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2]
   LICENSE-MIT [fffe218c1e349e1d482a05677f2ce850502f88298174d77f6ac7c04821db7899]
@@ -1063,6 +1125,11 @@ svgtypes 0.15.3 | Apache-2.0 OR MIT
   LICENSE-APACHE [a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2]
   LICENSE-MIT [f3c9fe731c701ed77fd5fbaac573872af04dc5869385eb9bd5e3c73c42713814]
 
+svgtypes 0.16.2 | Apache-2.0 OR MIT
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE-APACHE [a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2]
+  LICENSE-MIT [f3c9fe731c701ed77fd5fbaac573872af04dc5869385eb9bd5e3c73c42713814]
+
 syn 2.0.119 | MIT OR Apache-2.0
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE-APACHE [62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a]
@@ -1110,7 +1177,15 @@ tiny-skia 0.11.4 | BSD-3-Clause
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE [6d41e05f1d54fe726997cb0334ec539f1dff50600b1d5d90462ec2b392770ced]
 
+tiny-skia 0.12.0 | BSD-3-Clause
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE [6d41e05f1d54fe726997cb0334ec539f1dff50600b1d5d90462ec2b392770ced]
+
 tiny-skia-path 0.11.4 | BSD-3-Clause
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE [6d41e05f1d54fe726997cb0334ec539f1dff50600b1d5d90462ec2b392770ced]
+
+tiny-skia-path 0.12.0 | BSD-3-Clause
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE [6d41e05f1d54fe726997cb0334ec539f1dff50600b1d5d90462ec2b392770ced]
 
@@ -1187,6 +1262,11 @@ urlencoding 2.1.3 | MIT
   LICENSE [5a952e4a62a3022a7f39e9f0eb8d0638addd3efffb3f4092890923668152296e]
 
 usvg 0.45.1 | Apache-2.0 OR MIT
+  Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
+  LICENSE-APACHE [a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9]
+  LICENSE-MIT [f5d934dc281b44e0003ee461ac740b18b6629a454decd872c774d34e4ee0b21d]
+
+usvg 0.48.1 | Apache-2.0 OR MIT
   Targets: x86_64-unknown-linux-gnu, x86_64-pc-windows-gnullvm
   LICENSE-APACHE [a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9]
   LICENSE-MIT [f5d934dc281b44e0003ee461ac740b18b6629a454decd872c774d34e4ee0b21d]
@@ -3901,6 +3981,30 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER
 DEALINGS IN THE FONT SOFTWARE.
 
 
+----- 2f42c0cafc8ad394d91373fe1f342aee5453850b151a51405c68cae9ada86d26 -----
+MIT License
+
+Copyright (c) 2026 ArtCraft Team and the craft-libs contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
 ----- 3085885678bb161f6c472bbd331f66a2550b555eb76128f7f8247779128199c0 -----
 Copyright (c) 2022 Yevhenii Reizner
 
@@ -4303,6 +4407,31 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
 IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
+
+
+----- 3a7c3f0b887abb7c638faf022d29257418458614c6724b120ceeffb279f9c7d2 -----
+The MIT License (MIT)
+
+Copyright (c) HarfBuzz developers
+Copyright (c) 2020 Yevhenii Reizner
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 ----- 3fa4ca83dcc9237839b1bdeb2e6d16bdfb5ec0c5ce42b24694d8bbf0dcbef72c -----
@@ -6306,6 +6435,448 @@ freely, subject to the following restrictions:
 3. This notice may not be removed or altered from any source distribution.
 
 
+----- 6cd50310a0efc48b665e4ded4e296af0860b8d6147a209953ffd471cb7ca2aa5 -----
+craft-libs
+Copyright (c) 2026 ArtCraft Team and the craft-libs contributors.
+Licensed under the MIT License or the Apache License, Version 2.0, at your option
+(LICENSE-MIT, LICENSE-APACHE).
+
+Third-party material
+
+Optional DWG bridge
+
+`craft-dwg` uses `acadrust` 0.6.6 unmodified as a separate dependency for DWG reading and writing.
+It is licensed under the Mozilla Public License 2.0. The license text and upstream third-party
+notices are retained in `licenses/dwg/`; the crate is available from crates.io and
+https://github.com/hakanaktt/acadrust.
+
+The byte-level bridge source was moved from CADCraft `crates/dwg` at revision
+`664837df8925f932e90a7ae37c58d2f54e7a1320`. The bridge itself is MIT OR Apache-2.0; its only
+MPL-2.0 component is the unmodified `acadrust` dependency.
+
+This product bundles third-party material under its own licenses, listed below. The per-file
+list (author, source, license) is in ATTRIBUTION.md.
+
+crates/cms/profiles/photocraft-coated-cmyk.icc: CC0-1.0, generated by crates/cms (see below).
+crates/cms/profiles/craft-coated-fogra39.icc: CC0-1.0, generated by crates/cms from the FOGRA39
+  characterisation data below.
+crates/cms/tests/data/FOGRA39.txt: FOGRA39 characterisation data, distributed unmodified.
+  Source: Fogra (Fogra Forschungsinstitut für Medientechnologien e.V.), www.fogra.org, from
+  https://fogra.org/fileadmin/files/7_downloads/Charakterisierungsdaten/FOGRA39_to_FOGRA60_v2.zip
+  Fogra's terms: "Free use and redistribution of the Fogra characterisation data is permitted,
+  including redistribution as part of commercial and non-commercial software, provided that
+  the data are distributed unmodified and Fogra is identified as the source. The designation
+  FOGRAxx may be used solely to identify the respective reference data. Such use does not
+  imply certification, approval or endorsement by Fogra."
+crates/text/assets/hyphen/en-us.dic: public domain, derived from the Moby Hyphenator II list by
+  Grady Ward (Project Gutenberg eBook #3204).
+crates/proof/data/en-words.dic: public domain, the words of the Moby Hyphenator II list by Grady
+  Ward (Project Gutenberg eBook #3204), without its break points.
+crates/proof/data/en-extra.txt: MIT OR Apache-2.0, WordCraft contributors' own list of modern
+  English words (a copy of craft-i18n's language-data/en-us/en-extra.txt).
+craft-proof Language data, embedded at build time from craft-i18n's language-data/ when
+  CRAFT_I18N_DIR is set (CRAFT_PROOF_EMBED picks the locales; by default English and the German,
+  Polish, Portuguese, Italian and Russian data). Each file keeps its licence header; the
+  licences are listed in craft-i18n's ATTRIBUTION.md, and a pattern file's notice ships with any
+  application that embeds it. The Portuguese hyphenation patterns (language-data/pt/
+  hyphenation.pat, hyph-utf8 hyph-pt 1.4) are under the BSD 3-clause licence:
+  Copyright (C) 1987, 1994, 1996, 2015 Pedro J. de Rezende, 1996, 2015 J. Joao Dias Almeida,
+  2024 Leonardo Araujo and Aline Benevides.
+  Redistribution and use in source and binary forms, with or without modification, are
+  permitted provided that the following conditions are met:
+  * Redistributions of source code must retain the above copyright notice, this list of
+    conditions and the following disclaimer.
+  * Redistributions in binary form must reproduce the above copyright notice, this list of
+    conditions and the following disclaimer in the documentation and/or other materials
+    provided with the distribution.
+  * Neither the name of the University of Campinas, of the University of Minho nor the names of
+    its contributors may be used to endorse or promote products derived from this software
+    without specific prior written permission.
+  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
+  IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+  FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL PEDRO J. DE REZENDE OR J.JOAO
+  DIAS ALMEIDA BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+  CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+  SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+  THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+  POSSIBILITY OF SUCH DAMAGE.
+crates/text/assets/hyphen/en-us.pat: CC0-1.0, trained from en-us.dic by DesignCraft's trainer.
+Hyphenation patterns for other languages, embedded through the hypher crate only when the
+  matching craft-text feature is enabled (none are by default). They come from hyph-utf8,
+  https://github.com/hyphenation/tex-hyphen, as packaged in https://github.com/typst/hypher
+  (patterns/). Each file is under the license stated in its header: LPPL, MIT, BSD-3-Clause, the
+  Unlicense, a notice permitting any use, or a choice of licenses that includes one of these. An
+  application that enables a language ships that file's copyright and license notice. The
+  exception is Slovak (hyph-sk.tex, Copyright (C) 1992 Jana Chlebíková), under the GNU General
+  Public License, version 2 or later (SPDX: GPL-2.0-or-later). craft-text asks for it through the
+  feature "slovak-gpl", which "all-languages" does not include; an application that enables it
+  ships GPL-licensed data. Cargo unifies features, so another dependency that enables hypher's
+  "slovak" feature (hypher's default features do) embeds the same data; a build that must exclude
+  it checks its dependency graph. The Spanish patterns (feature "spanish") are hyph-es.tex 5.0.
+  Copyright (C) 1993, 1997 Javier Bezos, 2001-2019 Javier Bezos, CervanTeX. MIT License:
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+  and associated documentation files (the "Software"), to deal in the Software without
+  restriction, including without limitation the rights to use, copy, modify, merge, publish,
+  distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the
+  Software is furnished to do so, subject to the following conditions: The above copyright notice
+  and this permission notice shall be included in all copies or substantial portions of the
+  Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+  INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+  AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+  DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+- Word-break dictionaries and LSTM models for Thai, Lao, Khmer and Burmese, embedded through the
+  icu_segmenter_data crate only when craft-text's "thai", "lao", "khmer" or "burmese" feature is
+  enabled (none are by default). From ICU4X, https://github.com/unicode-org/icu4x.
+  Copyright (c) 2020-2024 Unicode, Inc. Unicode License v3 (SPDX: Unicode-3.0); portions adapted
+  from ICU4C, (c) 1995-2016 International Business Machines Corporation and others. An
+  application that enables one of these features ships the Unicode License v3 copyright and
+  permission notice, https://www.unicode.org/license.txt.
+
+The optional PDF writer bundles four CC0 ICC profiles by Clinton Ingram. See ATTRIBUTION.md for per-file sources and hashes.
+
+Source provenance
+
+crates/image-codecs (craft-image-codecs) is moved from PhotoCraft's standalone `photocraft-codecs`
+crate, including its bounded decoders, encoders, format registry, image model, metadata handling,
+orientation, fidelity warnings, and tests, from revision 5000240c6:
+https://github.com/storytold/photocraft
+Copyright (c) 2026 ArtCraft Team and the PhotoCraft contributors. The format implementations are
+clean-room work based on their public specifications; dependency licences and X.Org's `rgb.txt`
+attribution are listed in ATTRIBUTION.md.
+
+crates/develop (craft-develop) is moved from LightCraft, module by module:
+- src/inpaint.rs and src/inpaint/ from crates/inpaint (lightcraft-inpaint), with its tests, revision a75497d6.
+  https://github.com/storytold/lightcraft
+  Copyright (c) 2026 ArtCraft Team and the LightCraft contributors.
+  That crate ports the inpainting (PatchMatch completion) and Poisson membrane fill code of PhotoCraft
+  (https://github.com/storytold/photocraft, crates/algo/src/inpaint.rs and poisson.rs), Copyright the PhotoCraft
+  contributors, MIT OR Apache-2.0; the port was modified by the LightCraft contributors (2026).
+
+crates/raw (craft-raw) is moved from LightCraft, with behaviour ported from two other readers:
+- LightCraft, crates/raw (src/lib.rs, dng.rs, dngwrite.rs, tiffraw.rs, unpack.rs, ljpeg.rs, jxl.rs,
+  opcodes.rs, profile.rs, gaintable.rs, semantic.rs, preview.rs, vendor/crw.rs, vendor/hasselblad.rs,
+  vendor.rs (shared level helpers), vendor/mrw.rs, vendor/erf.rs, vendor/mef.rs, vendor/kodak.rs, vendor/pef.rs,
+  vendor/srw.rs, vendor/cr2.rs, vendor/cr2/sraw.rs, vendor/nef.rs, vendor/nefc.rs, vendor/nef_lens.rs, docs/nikon-lens-corrections.md, vendor/rw2.rs, vendor/raf.rs, vendor/rafc.rs, vendor/raf_lens.rs, docs/raf-compression.md, docs/raf-corpus.sha256, vendor/orf.rs, docs/orf-compression.md, vendor/arw.rs, vendor/arw6.rs, vendor/arw6_curve.rs, vendor/arw6_testenc.rs, vendor/arw_lens.rs, vendor/arw_lens_rm6.rs, vendor/sr2.rs, llvc.rs, lens_metadata.rs, docs/arw6-compression.md, docs/sony-lens-corrections.md, docs/sony-ilce7rm6-lens-corrections.md, vendor/cr3.rs, vendor/crx.rs, vendor/crx_wavelet.rs, sparse.rs, saturation.rs (the CR3 white extension), docs/cr3.md, docs/raw/, kelvin_presets.rs (the preset ordering), tests/it/vendor_robust.rs and their tests) and crates/meta/src/mrw.rs (the MRW block container),
+  revision 5ff567a4a2e067bef1b6bce152c11e7f727ccbaf.
+  https://github.com/storytold/lightcraft
+  Copyright (c) 2026 ArtCraft Team and the LightCraft contributors.
+- PhotoCraft, crates/raw/src/dng.rs, hasselblad.rs and tests/it/dng.rs (default-crop defaults,
+  white-level fallbacks, the 8-bit rule for lossy JPEG, Hasselblad's per-site black levels),
+  revision c1b22bdaae2a1359ba3d164eca4d4b0c7378b547.
+  https://github.com/storytold/photocraft
+  Copyright (c) 2026 ArtCraft Team and the PhotoCraft contributors.
+- FilmCraft, crates/dng/src/lib.rs (the CinemaDNG frame tags and time code), revision
+  4bec22bd03bd1d995c9cf72e02a284f96d3d72cd.
+  https://github.com/storytold/filmcraft
+  Copyright (c) 2026 ArtCraft Team and the FilmCraft contributors.
+The SVG icon preparation in crates/ui is adapted from:
+- PhotoCraft, crates/ui-egui/src/icons.rs, revision e7a83ca342cdff568254f85f442b9cc8afb08066.
+  https://github.com/storytold/photocraft
+  Copyright (c) 2026 ArtCraft Team and the PhotoCraft contributors.
+- VectorCraft, crates/ui-egui/src/icons.rs, revision 825d4fdb8b527c597855d273fb4bcc1971855b6a.
+  https://github.com/storytold/vectorcraft
+  Copyright (c) 2026 ArtCraft Team and the VectorCraft contributors.
+The icon-button interaction/style boundary is adapted from PhotoCraft (above) and:
+- PdfCraft, crates/ui-egui/src/icons.rs, revision f626db25cca2c89f8fa3f7e30d22bf59faea65ec.
+  https://github.com/storytold/pdfcraft
+  Copyright (c) 2026 ArtCraft Team and the PdfCraft contributors.
+The tab fitting in crates/ui/src/tabs is adapted from PhotoCraft's tab_strip.rs (above).
+Tab interaction adapters also use VectorCraft's dock.rs and floating.rs (above).
+The pane sizing and resize boundaries in crates/ui/src/layout draw on:
+- FilmCraft, crates/ui-egui/src/dock.rs, revision 7b6c134472287db4367fca80bcb498240ba36567.
+  https://github.com/storytold/filmcraft
+  Copyright (c) 2026 ArtCraft Team and the FilmCraft contributors.
+- EffectCraft, crates/ui-egui/src/dock.rs, revision 2a460986ee7a4b32656a3d434849693904b486bc.
+  https://github.com/storytold/effectcraft
+  Copyright (c) 2026 ArtCraft Team and the EffectCraft contributors.
+The widget-state styling in crates/ui/src/theme is adapted from VectorCraft (above),
+crates/ui-egui/src/theme.rs, and:
+- DesignCraft, crates/ui-egui/src/theme.rs, revision 66c7ce7e96ec286a091878cc2541ee8369aa79d6.
+  https://github.com/storytold/designcraft
+  Copyright (c) 2026 ArtCraft Team and the DesignCraft contributors.
+The transactional panel model and drop-zone semantics in crates/ui/src/docking draw on the
+FilmCraft/EffectCraft split, tab and accordion layouts and VectorCraft floating groups listed
+above. The generic transaction validation, optional renderer and workspace-location helpers
+are implemented here without dependencies on application engines or native window helpers.
+The hyphenation code, data and generator in crates/text (src/hyphen/, assets/hyphen/ and
+examples/hyphgen.rs) are adapted from:
+- DesignCraft, crates/compose/src/hyphen/, crates/compose/examples/hyphgen.rs and
+  assets/hyphenation/, revision e161878e4c7744fa06f9a2eede8103cb4c296355 (above).
+- WordCraft, crates/proof/src/hyphen.rs, revision e4b7d155f15a7784197ba34eeea0b54490d70eb2.
+  https://github.com/storytold/wordcraft
+  Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.
+All sources listed above are licensed MIT OR Apache-2.0. No icon artwork is copied here.
+
+The PDF spooler in crates/print is extracted from:
+- PdfCraft, crates/print/src/spool.rs, windows_print.ps1 and spooler tests,
+  revision 33c14e07cfd742a82bf03baa6b103c01008fa68c.
+  https://github.com/storytold/pdfcraft
+  Copyright (c) 2026 ArtCraft Team and the PdfCraft contributors.
+  Licensed MIT OR Apache-2.0. PDF composition and application code are not copied.
+
+The Windows printer duplex-capability query and parser additionally draw on PdfCraft,
+crates/print/src/spool.rs, revision fb97ce958dfe92b6762ce40615c7836551710139 (PR #1154), under the same licenses above.
+
+The native Windows backend (crates/print/src/windows.rs, ticket.rs and the printer-list and
+Windows spooler tests) is ported from PdfCraft's native printing work, which carries the
+approach of PdfCraft PR #599 (Win32 printer list, Windows.Data.Pdf into the XPS print API, the
+PrintTicket and its driver-paper preference):
+- PdfCraft, crates/print/src/spool/windows.rs, spool.rs and tests.rs, branch
+  claude/native-windows-print-826c99 of PR #1132, revision a435117 (jcl-bit/printcraft).
+  https://github.com/storytold/pdfcraft
+  Copyright (c) 2026 ArtCraft Team and the PdfCraft contributors.
+  Licensed MIT OR Apache-2.0.
+
+The menu layout and native-menu driver in crates/menu are extracted from:
+- PhotoCraft, crates/ui-egui/src/native_menu.rs, revision 6f85054288a564f9fbbccb99268ffdb34e581584.
+  https://github.com/storytold/photocraft
+  Copyright (c) 2026 ArtCraft Team and the PhotoCraft contributors.
+  Licensed MIT OR Apache-2.0. PhotoCraft's menus, translations and command handling are not copied.
+The macOS backend in crates/menu/src/mac.rs is adapted from:
+- PhotoCraft, apps/photocraft/src/mac_menu.rs, revision 6f85054288a564f9fbbccb99268ffdb34e581584.
+  https://github.com/storytold/photocraft
+  Copyright (c) 2026 ArtCraft Team and the PhotoCraft contributors.
+- VectorCraft, apps/vectorcraft/src/mac_menu.rs, revision 0d0ea352df99044589a7ce0efc7004f7a5b6b7c0
+  (closing an open menu on a click or Escape, and its tests, in crates/menu/src/driver.rs).
+  https://github.com/storytold/vectorcraft
+  Copyright (c) 2026 ArtCraft Team and the VectorCraft contributors.
+  Both licensed MIT OR Apache-2.0.
+The egui menu bar in crates/menu/src/bar (its menu navigation, scrolling, submenu hover
+intent, keyboard access and mnemonics, and their tests) is ported from:
+- PhotoCraft, crates/ui-egui/src/menu_nav.rs and menu_nav_tests.rs, menu_keys.rs and
+  menu_keys_tests.rs, and the menu bar in crates/ui-egui/src/menus.rs, revision
+  c36e46c3873ee39f299cc50a3dcd28494c78366d.
+  https://github.com/storytold/photocraft
+  Copyright (c) 2026 ArtCraft Team and the PhotoCraft contributors, among them aiongg, artman67,
+  BFlat, Brandon Thomas, Brennan Stehling, Daniel Lošák, David Mann, Fabio Lissi, FredApps,
+  Higgs32584, itsF4LCON, jason4short, Korg1ch, MarekSpodBiedry and Nigel Ihza Firdausy.
+  Licensed MIT OR Apache-2.0. PhotoCraft's menus, theme and Help search are not copied.
+
+The colour management module in crates/cms is extracted from:
+- PhotoCraft, crates/cms, revision b3222ee8e7e6bcb4799c37f904c595f20f9baf5e.
+  https://github.com/storytold/photocraft
+  Copyright (c) 2026 ArtCraft Team and the PhotoCraft contributors.
+  Licensed MIT OR Apache-2.0. Its generated ICC profile is dedicated to the public domain
+  (CC0-1.0); see ATTRIBUTION.md.
+
+Optional PDF writer
+
+Krilla 0.8.2 (https://github.com/LaurenzV/krilla), MIT OR Apache-2.0.
+Upstream licence texts are retained in licenses/pdf-writer.
+The optional writer embeds Compact ICC Profiles by Clinton Ingram
+(https://github.com/saucecontrol/Compact-ICC-Profiles), under CC0-1.0.
+See licenses/pdf-writer/LICENSE-ICC.txt and ATTRIBUTION.md for sources and hashes.
+The writer adds no font files. Its four existing ICC profiles are retained under vendor/krilla/icc.
+
+Krilla is vendored with the local patches in vendor/krilla/patches; see vendor/krilla/README.craft.md
+and vendor/krilla/SOURCE.json. Its upstream MIT/Apache-2.0 licences and CC0 profiles are unchanged.
+
+Optional PDF reader
+
+Hayro 0.7.1, hayro-interpret 0.7.0, hayro-syntax 0.7.2, hayro-jbig2 0.3.0, hayro-cmap 0.1.0
+and hayro-postscript 0.1.0 (https://github.com/LaurenzV/hayro), MIT OR Apache-2.0, retain their
+upstream licence files. The first five are patched sources transferred from PdfCraft
+(https://github.com/storytold/pdfcraft): hayro-cmap from revision
+a2ec27b4775f53c40cad3456936d9406611e3a8d, the others from revision
+ec0a965074f376a5bf610435948e4e5184bf3299. hayro-postscript is the crates.io 0.1.0 package
+(upstream revision a2354aebaf86f5ab13e5fd6b6b0521306488bf9d) with one local patch.
+See vendor/README.craft-reader.md and each crate's SOURCE.json for provenance and local changes.
+The hayro-interpret plate mode (separations, overprint and output-intent simulation) is ported
+from PdfCraft pull request #2770 by Guillem Hermida, commit
+6fcf2a4aca29e943e28cb69017ff8f87d00656c6 (https://github.com/storytold/pdfcraft/pull/2770),
+MIT OR Apache-2.0; crates/pdf/tests/plates.rs and tests/support/synthetic_icc.rs adapt its tests.
+Knockout transparency groups in hayro-interpret and hayro are ported from PdfCraft pull request
+#2974 by mtlcl410, commit bae69819594a6385a027fec1f67e6b3c36c259b4
+(https://github.com/storytold/pdfcraft/pull/2974), MIT OR Apache-2.0;
+crates/pdf/tests/knockout.rs adapts its test.
+The reader retains the existing Foxit/PDFium standard-14 font assets (BSD-3-Clause),
+Compact ICC Profiles by Clinton Ingram (CC0-1.0), and dependency CMaps (BSD-3-Clause).
+Their licences and per-file hashes are retained in vendor/hayro-interpret/assets,
+vendor/hayro-cmap/assets, licenses/pdf-backend and ATTRIBUTION.md. These are existing reader dependency assets;
+applications retain their own document-font selection and licensing policy.
+
+linesweeper
+
+linesweeper 0.5.0 (https://crates.io/crates/linesweeper/0.5.0), MIT OR Apache-2.0, is stored in
+vendor/linesweeper with its upstream license files and local patches, to src/sweep/sweep_line.rs,
+src/curve/mod.rs, src/curve/line.rs and docs/sweep.typ. Its manifest names Joe Neeman as author, and
+its LICENSE-MIT reads "Copyright (c) 2018 Raph Levien". See vendor/linesweeper/README.craft.md and
+vendor/linesweeper/SOURCE.json for provenance, the local patches and the files left out.
+
+Platform lifecycle source provenance
+
+The optional crates/platform services adapt the preserved local platform candidate
+9b135779a1e7136438a217c18afe1693ea23f1ab (dialog outcomes and browser resource ownership),
+and current application implementations:
+- PdfCraft crates/platform/src/desktop_theme.rs, a8cd797a917b1007544575c7280c9a0ce6a17e8f.
+- CADCraft apps/cadcraft/src/desktop_theme.rs, 0cc66ad3066e71f2c3d4cacb7de905e79ba1c95b.
+- ArtCraft Launcher apps/artcraft-launcher/src/system_theme.rs, f1676dfb41c226b5be490721f486ee6427419d80.
+- Earlier PhotoCraft, FilmCraft and EffectCraft appearance services at revisions
+  0c72d95425dece90ef9a1cceb49e3315c96e22d5, 794a25fc9ed2e3f6fab51a254625bc9b99a88015
+  and 1b4d47f34f2b1c1b4a89f4b7348889def8fd648b respectively.
+Sources: https://github.com/storytold/pdfcraft, https://github.com/storytold/cadcraft,
+https://github.com/storytold/craft-launcher, https://github.com/storytold/photocraft,
+https://github.com/storytold/filmcraft, https://github.com/storytold/effectcraft.
+Copyright (c) 2026 ArtCraft Team and the respective application and craft-libs contributors.
+All adapted source is licensed MIT OR Apache-2.0.
+
+The Canon CRW decoder in crates/crw (src/lib.rs, src/tables.rs, src/tests.rs, tests/) and its
+derivation record (crates/crw/clean-room/) come from:
+- LightCraft, crates/raw/src/vendor/crw.rs, crates/raw/src/vendor/crw_tables.rs,
+  crates/raw/tests/crw_oracle.rs, crates/raw/tests/it/vendor_robust.rs and clean-room/crw/,
+  https://github.com/storytold/lightcraft/pull/3021, revision 6ca439b5155820d2befeacd81ec0c6a80b2bd3bc
+  (decoder ported at 70c755e42a65661401142819278d51b0c5977f7f; the record is identical at both).
+  https://github.com/storytold/lightcraft
+  Copyright (c) 2026 ArtCraft Team and the LightCraft contributors.
+Its white-level plateau estimate (saturation_plateau) is LightCraft's vendor::white_from_data at the
+same revision. The CRW compression was derived clean-room from CC0 sample files and the
+maintainer's own photographs by black-box comparison with a reference decoder's command-line
+output; no raw-decoder source was consulted (crates/crw/clean-room/sources.md).
+
+crates/audio/src/alac/ (the ALAC decoder and encoder) is ported from Apple's ALAC reference
+implementation, https://github.com/macosforge/alac at c38887c5c5e64a4b31108733bd79ca9b2496d987
+(codec/), Copyright (c) 2011 Apple Inc., licensed under the Apache License, Version 2.0
+(LICENSE-APACHE). The files are modified: translated to Rust, with bounds checks on hostile input,
+wrapping integer arithmetic, the unrolled predictor and per-width matrix routines folded into one,
+and the average bit rate filled in. Those files are Apache-2.0 only.
+
+JPEG encoding dependency: jpeg-encoder 0.6.1
+
+Source: https://crates.io/crates/jpeg-encoder/0.6.1
+Declared license: (MIT OR Apache-2.0) AND IJG.
+This software is based in part on the work of the Independent JPEG Group.
+
+The MIT license and unaltered upstream IJG and SIMD notices follow. The Apache-2.0
+alternative is also retained in licenses/jpeg-encoder-0.6.1 at the repository root.
+The dependency is used unmodified; no encoder implementation is vendored here.
+
+LICENSE-MIT
+
+Copyright (c) 2021 Volker Ströbel <volkerstroebel@mysurdity.de>
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be included in all copies or substantial portions
+of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
+SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+Original src/fdct.rs opening notice
+
+/*
+ * Ported from mozjpeg to rust
+ *
+ * This file was part of the Independent JPEG Group's software:
+ * Copyright (C) 1991-1996, Thomas G. Lane.
+ * libjpeg-turbo Modifications:
+ * Copyright (C) 2015, 2020, D. R. Commander.
+ *
+ * Conditions of distribution and use:
+ * In plain English:
+ *
+ * 1. We don't promise that this software works.  (But if you find any bugs,
+ *    please let us know!)
+ * 2. You can use this software for whatever you want.  You don't have to pay us.
+ * 3. You may not pretend that you wrote this software.  If you use it in a
+ *    program, you must acknowledge somewhere in your documentation that
+ *    you've used the IJG code.
+ *
+ * In legalese:
+ *
+ * The authors make NO WARRANTY or representation, either express or implied,
+ * with respect to this software, its quality, accuracy, merchantability, or
+ * fitness for a particular purpose.  This software is provided "AS IS", and you,
+ * its user, assume the entire risk as to its quality and accuracy.
+ *
+ * This software is copyright (C) 1991-2020, Thomas G. Lane, Guido Vollbeding.
+ * All Rights Reserved except as specified below.
+ *
+ * Permission is hereby granted to use, copy, modify, and distribute this
+ * software (or portions thereof) for any purpose, without fee, subject to these
+ * conditions:
+ * (1) If any part of the source code for this software is distributed, then this
+ * README file must be included, with this copyright and no-warranty notice
+ * unaltered; and any additions, deletions, or changes to the original files
+ * must be clearly indicated in accompanying documentation.
+ * (2) If only executable code is distributed, then the accompanying
+ * documentation must state that "this software is based in part on the work of
+ * the Independent JPEG Group".
+ * (3) Permission for use of this software is granted only if the user accepts
+ * full responsibility for any undesirable consequences; the authors accept
+ * NO LIABILITY for damages of any kind.
+ *
+ * These conditions apply to any software derived from or based on the IJG code,
+ * not just to the unmodified library.  If you use our work, you ought to
+ * acknowledge us.
+ *
+ * Permission is NOT granted for the use of any IJG author's name or company name
+ * in advertising or publicity relating to this software or products derived from
+ * it.  This software may be referred to only as "the Independent JPEG Group's
+ * software".
+ *
+ * We specifically permit and encourage the use of this software as the basis of
+ * commercial products, provided that all warranty or liability claims are
+ * assumed by the product vendor.
+ *
+ * This file contains a slower but more accurate integer implementation of the
+ * forward DCT (Discrete Cosine Transform).
+ *
+ * A 2-D DCT can be done by 1-D DCT on each row followed by 1-D DCT
+ * on each column.  Direct algorithms are also available, but they are
+ * much more complex and seem not to be any faster when reduced to code.
+ *
+ * This implementation is based on an algorithm described in
+ *   C. Loeffler, A. Ligtenberg and G. Moschytz, "Practical Fast 1-D DCT
+ *   Algorithms with 11 Multiplications", Proc. Int'l. Conf. on Acoustics,
+ *   Speech, and Signal Processing 1989 (ICASSP '89), pp. 988-991.
+ * The primary algorithm described there uses 11 multiplies and 29 adds.
+ * We use their alternate method with 12 multiplies and 32 adds.
+ * The advantage of this method is that no data path contains more than one
+ * multiplication; this allows a very simple and accurate implementation in
+ * scaled fixed-point arithmetic, with a minimal number of shifts.
+ */
+
+Original src/avx2/fdct.rs opening notice
+
+/*
+ * Ported from mozjpeg / jfdctint-avx2.asm to rust
+ * Copyright 2009 Pierre Ossman <ossman@cendio.se> for Cendio AB
+ * Copyright (C) 2009, 2016, 2018, 2020, D. R. Commander.
+ *
+ * Based on the x86 SIMD extension for IJG JPEG library
+ * Copyright (C) 1999-2006, MIYASAKA Masaru.
+ */
+
+The .cdr reader (crates/cdr, moved from VectorCraft crates/cdr) reads the record layouts that the
+Kaitai Struct specification coreldraw_cdr.ksy (https://github.com/kaitai-io/coreldraw_cdr.ksy,
+MIT License) and its fork by Zach Wolfe (https://github.com/filestar/coreldraw_cdr.ksy, branch
+new_stuff, MIT License) describe. No part of either specification is copied into the crate; the
+license text is in crates/cdr/LICENSE-kaitai.txt.
+
+The Y4M range-backed source in crates/media-source/src/y4m.rs adapts FilmCraft's
+original implementation (3f137a7ed420cac79b32145f5243b7f98b31f71c), licensed
+MIT OR Apache-2.0. Source notice retained:
+Copyright (c) 2026 ArtCraft Team and the FilmCraft contributors.
+
+
 ----- 6d41e05f1d54fe726997cb0334ec539f1dff50600b1d5d90462ec2b392770ced -----
 Copyright (c) 2011 Google Inc. All rights reserved.
 Copyright (c) 2020 Yevhenii Reizner All rights reserved.
@@ -7293,6 +7864,34 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+----- 7b4c9a3946dfcea7967582760e963e27799e225dcf20565c8ef55324bb017427 -----
+Copyright (c) 2019 Fontations Developers
+
+Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the
+Software without restriction, including without
+limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice
+shall be included in all copies or substantial portions
+of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
+SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
 
 
 ----- 7b63ecd5f1902af1b63729947373683c32745c16a10e8e6292e2e2dcd7e90ae0 -----
@@ -12801,6 +13400,198 @@ DEALINGS IN THE SOFTWARE.
 ----- db11fec9946737df39ca3898d9cd8c10ec6f6c3a884a6802b0ad0b81b4e8f23a -----
 MIT OR Apache-2.0
 
+----- df9dcd5a6ca11a02d76dba4a10ff6ea60212fe4238f87d3131389d3bdbda345e -----
+# Attribution
+
+Third-party assets bundled in this repository (fonts, icons, images, test data), each with its
+author, source and license. Library code and original assets are under the repository license
+(MIT OR Apache-2.0, see [NOTICE](NOTICE)).
+
+| File | Author | Source | License |
+|---|---|---|---|
+| `licenses/jpeg-encoder-0.6.1/`, `crates/image-codecs/NOTICE` | jpeg-encoder contributors and the IJG, libjpeg-turbo and SIMD authors named in the retained notices | [jpeg-encoder 0.6.1](https://crates.io/crates/jpeg-encoder/0.6.1), used unmodified; source checksums in `SOURCE.json` | (MIT OR Apache-2.0) AND IJG |
+| `crates/smime/testdata/` | MailCraft contributors; RFC 9216 example certificates | [MailCraft at 240d1d42](https://github.com/UCS-Care-Group/mailcraft/tree/240d1d42fe394cf3274402b180663ba9b43ca180/crates/smime/testdata), restored unmodified; provenance in the directory README | MIT OR Apache-2.0 (source repository) |
+| `licenses/dwg/acadrust-MPL-2.0.txt`, `licenses/dwg/acadrust-THIRD_PARTY_NOTICES.md` | `acadrust` contributors; ACadSharp authors for the noted ported routines | [acadrust 0.6.6](https://github.com/hakanaktt/acadrust), used unmodified as `craft-dwg`'s optional native dependency | MPL-2.0; embedded ACadSharp notice is MIT; see both retained files |
+| `crates/cms/profiles/photocraft-coated-cmyk.icc` | PhotoCraft contributors; generated by `craft_cms::synth::coated_cmyk` | [PhotoCraft `crates/cms`](https://github.com/storytold/photocraft/tree/b3222ee8e7e6bcb4799c37f904c595f20f9baf5e/crates/cms) | CC0-1.0 |
+| `crates/cms/profiles/craft-coated-fogra39.icc` | craft-libs contributors; generated by `crates/cms/tests/fogra39.rs` from the FOGRA39 data below | this repository | CC0-1.0 |
+| `crates/ppt-binary/tests/fixtures/old-talk.pps` | DeckCraft contributors; a one-slide PowerPoint 97-2003 show built from records by `crates/ppt-binary/src/tests.rs` (`the_pps_fixture_is_a_built_presentation`, with `CRAFT_WRITE_PPT_FIXTURE=1`); no PowerPoint involved | [storytold/deckcraft#1137](https://github.com/storytold/deckcraft/pull/1137) | CC0-1.0 |
+| `crates/font-store/index/sources.json` (unmodified) | craft-font-index contributors | [aiongg/craft-font-index@995ef20](https://github.com/aiongg/craft-font-index/tree/995ef2000a0159d70da245e22cfa0797a0756ae8) | Apache-2.0 |
+| `crates/font-store/index/indexes/google-fonts.json.gz` (unmodified) | craft-font-index contributors; generated from the METADATA.pb files of [google/fonts](https://github.com/google/fonts) at `45e3d5269e4a17d823f6d84470bc084dc5ae46f6` | [aiongg/craft-font-index@995ef20](https://github.com/aiongg/craft-font-index/tree/995ef2000a0159d70da245e22cfa0797a0756ae8) | Apache-2.0 |
+| `crates/font-store/index/indexes/noto.json.gz` (unmodified) | craft-font-index contributors; generated from [notofonts/notofonts.github.io](https://github.com/notofonts/notofonts.github.io) at `93fac8abebe6c7fed0c5b7d2456d8fa484fa146c` and [noto-cjk](https://github.com/notofonts/noto-cjk) releases | [aiongg/craft-font-index@995ef20](https://github.com/aiongg/craft-font-index/tree/995ef2000a0159d70da245e22cfa0797a0756ae8) | Apache-2.0 |
+| `crates/font-manager/tests/data/preview-vectors.json` (sample sentences) | Google Fonts `lang/` contributors; texts from the Universal Declaration of Human Rights via Eric Muller's UDHR in Unicode (translations' own terms not checked); the Iroha poem is public domain | [google/fonts `lang/`](https://github.com/google/fonts/tree/45e3d5269e4a17d823f6d84470bc084dc5ae46f6/lang) at `45e3d52` | Apache-2.0 |
+| `crates/cms/tests/data/FOGRA39.txt` (unmodified) | Fogra | [Fogra characterisation data](https://fogra.org/en/downloads/work-tools/characterisation-data), `FOGRA39_to_FOGRA60_v2.zip` | Fogra terms: free use and redistribution, unmodified, with Fogra identified as the source; "FOGRA39" identifies the reference data only and implies no certification, approval or endorsement by Fogra (full text in [NOTICE](NOTICE)) |
+| `vendor/linesweeper/tests/regression/`, `vendor/linesweeper/proptest-regressions/`, the `.snap` files under `vendor/linesweeper/src/` and the path data in `vendor/linesweeper/benches/painted_dreams.rs` (all unmodified; hashes in `vendor/linesweeper/SOURCE.json`) | As published in the package, whose manifest names Joe Neeman as author and records no other source | [linesweeper 0.5.0](https://crates.io/crates/linesweeper/0.5.0) | MIT OR Apache-2.0 (the package's `license` field) |
+| `crates/i18n/data/collation.postcard` | Unicode, Inc. (ICU 78.1 collation data, CLDR 48.2.1); generated by `crates/i18n/data/generate-collation.sh` | [ICU](https://github.com/unicode-org/icu/releases/tag/release-78.1rc) | Unicode-3.0 |
+| `crates/text/assets/hyphen/en-us.dic` | Grady Ward (Moby Hyphenator II), converted by DesignCraft | [Project Gutenberg eBook #3204](https://www.gutenberg.org/ebooks/3204) | Public domain |
+| `crates/proof/data/en-words.dic` | Grady Ward (Moby Hyphenator II word list); break points dropped by craft-proof contributors with `crates/proof/examples/en_words.rs` | [Project Gutenberg eBook #3204](https://www.gutenberg.org/ebooks/3204), via craft-i18n `language-data/en-us/en-us.dic` | Public domain |
+| `crates/proof/data/en-extra.txt` | WordCraft contributors (original list, no other dictionary copied) | craft-i18n `language-data/en-us/en-extra.txt` | MIT OR Apache-2.0 |
+| `crates/text/assets/hyphen/en-us.pat` | DesignCraft contributors, trained from the Moby Hyphenator II list | `crates/text/examples/hyphgen.rs` | CC0-1.0 |
+| Patterns embedded through `hypher` (optional `craft-text` language features) | hyph-utf8 authors, per language | [tex-hyphen](https://github.com/hyphenation/tex-hyphen), as packaged in [hypher](https://github.com/typst/hypher/tree/main/patterns) | Per file header: LPPL, MIT, BSD-3-Clause, Unlicense or a permit-any-use notice (or a choice including one); Slovak (`hyph-sk.tex`, embedded whenever `hypher/slovak` is on: feature `slovak-gpl`, or another dependency through feature unification) is GPL-2.0-or-later; Spanish (`hyph-es.tex` 5.0, Javier Bezos, CervanTeX) is MIT |
+| Word-break dictionaries and LSTM models embedded through `icu_segmenter_data` (optional `craft-text` features `thai`, `lao`, `khmer`, `burmese`) | Unicode, Inc. and ICU4X contributors | [ICU4X](https://github.com/unicode-org/icu4x) | Unicode-3.0 |
+| `crates/ui/tests/fonts/NotoSansArabic-test.ttf` (subset to the test strings, default weight set to 100, width axis dropped) | The Noto Project Authors | [google/fonts@7085eb8 `ofl/notosansarabic`](https://github.com/google/fonts/tree/7085eb89a950e85db5b166b7a58d414544b4140c/ofl/notosansarabic), via craft-fonts | OFL-1.1 (`licenses/ui-test-fonts/OFL-NotoSansArabic.txt`) |
+| `crates/ui/tests/fonts/NotoSansCJKsc-test.otf` (subset to the test strings) | The Noto Project Authors (Adobe, Google) | [notofonts/noto-cjk@f8d1575 `Sans/OTF/SimplifiedChinese`](https://github.com/notofonts/noto-cjk/tree/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/OTF/SimplifiedChinese), via craft-fonts | OFL-1.1 (`licenses/ui-test-fonts/OFL-NotoSansCJK.txt`) |
+| `crates/ui/tests/fonts/NotoSansArabic-screens.ttf` (instance at weight 400 and width 100, subset to the screen test strings) | The Noto Project Authors | [google/fonts@7085eb8 `ofl/notosansarabic`](https://github.com/google/fonts/tree/7085eb89a950e85db5b166b7a58d414544b4140c/ofl/notosansarabic), via craft-fonts | OFL-1.1 (`licenses/ui-test-fonts/OFL-NotoSansArabic.txt`) |
+| `crates/ui/tests/fonts/NotoSansCJKsc-screens.otf` (subset to printable ASCII and the screen test strings) | The Noto Project Authors (Adobe, Google) | [notofonts/noto-cjk@f8d1575 `Sans/OTF/SimplifiedChinese`](https://github.com/notofonts/noto-cjk/tree/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/OTF/SimplifiedChinese), via craft-fonts | OFL-1.1 (`licenses/ui-test-fonts/OFL-NotoSansCJK.txt`) |
+| `crates/ui/tests/fonts/NotoSansThai-screens.ttf` (instance at weight 400 and width 100, subset to the screen test strings) | The Noto Project Authors | [google/fonts@8b0a1d0 `ofl/notosansthai`](https://github.com/google/fonts/tree/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/notosansthai), via craft-fonts | OFL-1.1 (`licenses/ui-test-fonts/OFL-NotoSansThai.txt`) |
+| `crates/crw/tests/samples.json` (manifest only; the 11 raw files are not bundled, `scripts/fetch-crw-samples.py` downloads them outside the checkout) | The photographers who contributed each file to raw.pixls.us (Canon EOS D30, D60, 10D ×3, 300D ×2, Digital Rebel, PowerShot G1, G5, G6) | [raw.pixls.us](https://raw.pixls.us/), each file's `getfile.php` URL and SHA-256 in the manifest | CC0-1.0 (as published by raw.pixls.us for each file) |
+| `crates/crw/src/tables.rs`, `crates/crw/clean-room/logs/table_sel*.json` | craft-crw contributors (derived in LightCraft, 2026-10, by known-plaintext alignment of the sample files' entropy streams; `crates/crw/clean-room/02-crw-format.md`) | this repository | MIT OR Apache-2.0 |
+| `crates/crw/clean-room/logs/private-corpus.tsv` (file names, sizes and SHA-256 of the maintainer's own EOS D60 files; no image content) | craft-crw contributors (LightCraft derivation record) | this repository | MIT OR Apache-2.0 |
+| `crates/prc/src/acof/table.rs` (the rows of the PRC `Double` prefix-code table, reformatted as Rust tuples) | Kristof Ralovich (prc-rs); the table is defined by ISO 14739-1 | [ralovich/prc-rs@287b671](https://github.com/ralovich/prc-rs/blob/287b671bb5b31b05efb5ec1b98f7c359b9e4dd7d/src/double.rs), through [PdfCraft `crates/prc`](https://github.com/storytold/pdfcraft/tree/80e26e674d1aa33078e83c8139875047f3289eb6/crates/prc) | MIT (`licenses/prc-rs/LICENSE.txt`; the notice is also in the file header) |
+| `crates/math/tests/corpus/equations.tsv`, `crates/math/tests/corpus/latex.tsv` (unmodified) | shuff57 (equaSHion) | [storytold/craft-libs#29](https://github.com/storytold/craft-libs/pull/29) at `7a6ef6b9`, `corpus/` | MIT OR Apache-2.0 |
+| `crates/math/tests/corpus/omml/*.xml` (unmodified) | WordCraft and DeckCraft contributors, collected by shuff57 (equaSHion) | [storytold/craft-libs#29](https://github.com/storytold/craft-libs/pull/29) at `7a6ef6b9`, `corpus/omml/` | MIT OR Apache-2.0 |
+
+Original assets are covered by the repository licence.
+
+## Assets embedded by the optional PDF writer
+
+Krilla 0.8.2 bundles the following Compact ICC Profiles by Clinton Ingram, under CC0-1.0.
+The immutable source revision is `3ffdf0588cf98050aad6edba51ca70162e1fb5b5`, recorded by the
+registry package's `.cargo_vcs_info.json`. These are the same dependency profiles already
+used by the apps' Krilla exporters. The local backend snapshot retains these four profiles; the optional writer adds no font binaries.
+The profile licence is retained in `licenses/pdf-writer/LICENSE-ICC.txt`.
+
+| Crate / file | Author | Source | Licence | SHA-256 | Use |
+| --- | --- | --- | --- | --- | --- |
+| `krilla 0.8.2 / icc/sGrey-v2-magic.icc` | Clinton Ingram | https://github.com/LaurenzV/krilla/blob/3ffdf0588cf98050aad6edba51ca70162e1fb5b5/crates/krilla/icc/sGrey-v2-magic.icc | CC0-1.0 | `4110169287e5f1b5149ca9f1da1814d32943905bba8030e849d1a3b729a19481` | PDF writer colour profiles |
+| `krilla 0.8.2 / icc/sGrey-v4.icc` | Clinton Ingram | https://github.com/LaurenzV/krilla/blob/3ffdf0588cf98050aad6edba51ca70162e1fb5b5/crates/krilla/icc/sGrey-v4.icc | CC0-1.0 | `00c0f94e09127520a17dc0e1d9264b5702081d96dbdb1549ee88e3631ce42a9d` | PDF writer colour profiles |
+| `krilla 0.8.2 / icc/sRGB-v2-magic.icc` | Clinton Ingram | https://github.com/LaurenzV/krilla/blob/3ffdf0588cf98050aad6edba51ca70162e1fb5b5/crates/krilla/icc/sRGB-v2-magic.icc | CC0-1.0 | `af4efe28f6d311799865f325ba39184a2e978b113ca74124d60af7de22b105f4` | PDF writer colour profiles |
+| `krilla 0.8.2 / icc/sRGB-v4.icc` | Clinton Ingram | https://github.com/LaurenzV/krilla/blob/3ffdf0588cf98050aad6edba51ca70162e1fb5b5/crates/krilla/icc/sRGB-v4.icc | CC0-1.0 | `c56e1685d888f5edb92fe07f2750f387f8fe8e91b32ff8fb0b56bfbbb9458353` | PDF writer colour profiles |
+
+The four Krilla ICC entries above are also stored unchanged in `vendor/krilla/icc`.
+The vendored source patches are in `vendor/krilla/patches`, described in `vendor/krilla/README.craft.md`; per-file hashes are in `vendor/krilla/SOURCE.json`.
+
+## Assets retained with the optional PDF reader
+
+The shared reader centralizes the five patched Hayro source trees from PdfCraft and the
+patched crates.io `hayro-postscript` 0.1.0 scanner, which bundles no assets.
+The standard-14 fonts, CMYK profile and generated metrics listed below remain byte-identical
+in `vendor/hayro-interpret`, and the CMaps in `vendor/hayro-cmap/assets`; no application
+document fonts are added. The removed upstream LAB.icc profile is not restored. Source hashes
+and the exact transfer revision are recorded in each vendored crate's SOURCE.json.
+
+| Crate / file | Author | Source | Licence | SHA-256 | Use |
+| --- | --- | --- | --- | --- | --- |
+| `hayro-interpret 0.7.0 / assets/FoxitDingbats.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitDingbats.pfb | BSD-3-Clause | `845c752392b6c914fb989c75a08b7792b88f542d2499042ef2889f8c814a16ed` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/FoxitFixed.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitFixed.pfb | BSD-3-Clause | `b6c8fe53f134b8b6d4578cd2d544df4cee9624c4efa8d51a560fb40ea296101b` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/FoxitFixedBold.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitFixedBold.pfb | BSD-3-Clause | `f1b7159702973f54fc86254ea38bcf3712b2a736eb3a0995751e9f4bb45ad603` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/FoxitFixedBoldItalic.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitFixedBoldItalic.pfb | BSD-3-Clause | `8a000945843bd31add06aee63bf9fd41b7578b4f3242a4b7cd46349ad9d24d4d` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/FoxitFixedItalic.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitFixedItalic.pfb | BSD-3-Clause | `5007faf8320fa1fcc08b8894b356ad976f60b992ba29ee5272578bbdebaf3876` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/FoxitSans.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitSans.pfb | BSD-3-Clause | `a02339e95d20db14cbdfc1c6baf359cd36a091d5434925c3a4040f60e1a1af9e` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/FoxitSansBold.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitSansBold.pfb | BSD-3-Clause | `7bdfa36de1d5757dcfaf8b8a4be95c6e41c40fa70dbed9d78bf979a7b9959054` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/FoxitSansBoldItalic.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitSansBoldItalic.pfb | BSD-3-Clause | `555ce45924338e2e4b32821910221ce85da691fd59a9723c4c971a7c5627fc8b` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/FoxitSansItalic.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitSansItalic.pfb | BSD-3-Clause | `7751cbefeda351708dae8c4a88db043411bc39ab2ae2097685da845d4d16f307` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/FoxitSerif.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitSerif.pfb | BSD-3-Clause | `4f57d2b9d884af8f907bf22df6019b52d86cbf6214fdbd02b1ae05472a543f35` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/FoxitSerifBold.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitSerifBold.pfb | BSD-3-Clause | `0bdf4b04e964139818d51eda03d566ba999fc3ba2421b1c6c51f9dc969022e80` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/FoxitSerifBoldItalic.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitSerifBoldItalic.pfb | BSD-3-Clause | `a406cac82583bf98175cb62c87ed5e95c45fbb34eece63a10b0a13e793cb2e10` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/FoxitSerifItalic.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitSerifItalic.pfb | BSD-3-Clause | `610ae0687198045c4db5d1a6650fd5e92536631706382eb8b72e38df578d0ae9` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/FoxitSymbol.pfb` | Foxit Software Inc. / PDFium Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/FoxitSymbol.pfb | BSD-3-Clause | `47967d055530e7357088a08403115425643ec2cdfd6201ba8af0fbd7116c1539` | Renders non-embedded standard-14 fonts (pinned hayro-interpret) |
+| `hayro-interpret 0.7.0 / assets/CGATS001Compat-v2-micro.icc` | Clinton Ingram (saucecontrol/Compact-ICC-Profiles) | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/assets/CGATS001Compat-v2-micro.icc | CC0-1.0 | `73e1ba37d2bad5bab2a964f40a9eed96209666efc067c3322626214bbef234a0` | Default CMYK colour conversion (pinned hayro-interpret) |
+| `hayro-cmap 0.1.0 / assets/cmaps.brotli` | Adobe | https://github.com/storytold/pdfcraft/blob/a2ec27b4775f53c40cad3456936d9406611e3a8d/vendor/hayro-cmap/assets/cmaps.brotli | BSD-3-Clause | `ddf37af521d904d5646c2fc37b2b7e912dc1b56f0d210190b61f598154758e46` | Character-code mapping tables required to read CJK PDFs. Non-visual dependency data; existing embedding unchanged |
+| `hayro-interpret 0.7.0 / src/font/generated/metrics.rs` | Adobe (Core 14 AFM metrics, PDF specification encodings); tables by The Hayro Authors | https://github.com/storytold/pdfcraft/blob/7437bde378f43856eada40af25b983812e615e8a/vendor/hayro-interpret/src/font/generated/metrics.rs | MIT OR Apache-2.0 | `2ec9e608573eda459de1e1d9bda3bb494315e36bee885acc88912a11fe0caa41` | Glyph widths and encodings for non-embedded standard fonts. Non-visual dependency data; existing embedding unchanged |
+| `crates/audio/src/ac3/golden_frames.bin` | FilmCraft contributors (original work: 12 AC-3 and E-AC-3 syncframes that ffmpeg's `ac3` and `eac3` encoders made from tones and seeded noise synthesised by ffmpeg's lavfi generators; no third-party or recorded audio) | [FilmCraft `crates/ac3`](https://github.com/storytold/filmcraft/tree/1c9c2e82/crates/ac3/src) | MIT OR Apache-2.0 |
+| `crates/audio/tests/fixtures/` | SoundCraft and craft-libs contributors (original work: 0.1 s test tones from ffmpeg's `sine` generator and hand-built silent MPEG frames; no third-party or recorded audio; commands in `crates/audio/tests/fixtures/README.md`) | [SoundCraft `crates/audio-io/tests/fixtures`](https://github.com/storytold/soundcraft/tree/e86d09a/crates/audio-io/tests/fixtures); `tone.mov`, `tone.mka`, `tone.opus`, `tone.ac3` and `tone.eac3` made in this repository | MIT OR Apache-2.0 |
+| `crates/image-codecs/src/codecs/xpm/x11_colors.rs` | X.Org Foundation and X11 contributors (X11 `rgb.txt` colour names and values, normalised into a lookup table) | <https://cgit.freedesktop.org/xorg/app/rgb/tree/rgb.txt>, via [PhotoCraft `crates/codecs`](https://github.com/storytold/photocraft/tree/5000240c6/crates/codecs/src/codecs/xpm) | MIT (X.Org app/rgb) |
+| `crates/raster-codecs/src/xpm/x11_colors.rs` | X.Org Foundation and X11 contributors (X11 `rgb.txt` colour names and values, normalised into a lookup table) | <https://cgit.freedesktop.org/xorg/app/rgb/tree/rgb.txt>, via [PhotoCraft `crates/codecs`](https://github.com/storytold/photocraft/tree/63b641b55e54bf8f5c83efd977fdb16a2c255431/crates/codecs/src/codecs/xpm) | MIT (X.Org app/rgb) |
+| `crates/psd/tests/fixtures/atn/*.atn` (seven synthetic action sets, encoded field by field; `crates/psd/tests/fixtures/atn/README.md`) | PhotoCraft contributors | [PhotoCraft `crates/psd/tests/fixtures/atn`](https://github.com/storytold/photocraft/tree/63b641b55e54bf8f5c83efd977fdb16a2c255431/crates/psd/tests/fixtures/atn) | MIT OR Apache-2.0 |
+| `crates/lottie/tests/fixtures/` | EffectCraft contributors (original work: four hand-written Lottie JSON documents, written from the public Lottie format description; not exported from any Adobe product or third-party file) | [EffectCraft `crates/lottie/tests/fixtures`](https://github.com/storytold/effectcraft/tree/e18f48fb/crates/lottie/tests/fixtures) | MIT OR Apache-2.0 |
+| `crates/pkcs7/tests/data/` | PdfCraft contributors (original work: throw-away test keys and certificates made with OpenSSL 3 for these tests, as seven PKCS #12 files with the password `test` and two PEM certificates; they protect nothing; commands in `crates/pkcs7/tests/data/README.md`) | [PdfCraft `crates/sign/tests/data`](https://github.com/storytold/pdfcraft/tree/1d7a9f9f/crates/sign/tests/data) | MIT OR Apache-2.0 |
+| `crates/affinity/tests/support/corpus.tsv`, `crates/affinity/tests/support/affinity3-signatures.txt` (manifest and measured signatures only; the 113 files, 90 of them documents, are not bundled, `scripts/fetch-affinity-corpus.sh` downloads them outside the checkout) | The authors of each document: samuel-etver (vector-art), satoshoe-dev (affinity-samples), Seth A. Robinson (Patchy fixtures), Nick Beeuwsaert (AFDesignLoad), Jeremy Cantu (Branding), eviltwo (AssetStoreTemplate), Square (leakcanary) | each file's pinned upstream URL and SHA-256 in the manifest; every name from [VectorCraft `xtask/src/affinity_corpus.rs`](https://github.com/storytold/vectorcraft/blob/bada8e17103db9917de44e40a1cead5a7fc71c3c/xtask/src/affinity_corpus.rs) and [PhotoCraft `xtask/affinity-corpus.sha256`](https://github.com/storytold/photocraft/blob/629751503165118d5fec5f70e64fe2d6592f7b53/xtask/affinity-corpus.sha256) | CC0-1.0, MIT or Apache-2.0 (per file, in the manifest) |
+| `crates/raw/docs/coverage/adobe-cameras.tsv` | Facts (maker, model, extension, profile, minimum Camera Raw version) parsed by LightCraft contributors from Adobe's published list | [Adobe Camera Raw supported cameras](https://helpx.adobe.com/camera-raw/desktop/dng-and-file-formats/camera-raw-plug-supported-cameras.html), Wayback capture 20261003133011; moved from [LightCraft `docs/raw`](https://github.com/storytold/lightcraft/tree/5ff567a4a2e067bef1b6bce152c11e7f727ccbaf/docs/raw) | Facts, not copyrightable expression; the file is MIT OR Apache-2.0 |
+| `crates/raw/docs/coverage/{coverage,coverage-sweep,evidence,usage-weights}.tsv`, `coverage.py` | LightCraft contributors | [LightCraft `docs/raw`](https://github.com/storytold/lightcraft/tree/5ff567a4a2e067bef1b6bce152c11e7f727ccbaf/docs/raw) | MIT OR Apache-2.0 |
+| `crates/raw/docs/raf-corpus.sha256` (hashes only; the files are not bundled) | The photographers who contributed each file to raw.pixls.us | [raw.pixls.us](https://raw.pixls.us/) | CC0-1.0 |
+| `crates/drawingml/src/preset_text.txt` | DeckCraft contributors (Nikita Rakitin); generated by `crates/drawingml/tests/fixtures/make_preset_guides.py` from the guide formulas of ECMA-376 Part 1 `presetShapeDefinitions.xml` | [storytold/deckcraft#650](https://github.com/storytold/deckcraft/pull/650) | MIT OR Apache-2.0 (the formulas are the format's definition in ECMA-376) |
+| `crates/drawingml/tests/fixtures/preset_table.txt` | DeckCraft contributors (Nikita Rakitin); generated by `crates/drawingml/tests/fixtures/make_preset_table.py` from ECMA-376 Part 1 `presetShapeDefinitions.xml` | [storytold/deckcraft#650](https://github.com/storytold/deckcraft/pull/650) | MIT OR Apache-2.0 (the formulas are the format's definition in ECMA-376) |
+
+## Binary Apple property lists
+
+`crates/plist` is extracted from `storytold/craft-anything` (`crates/formats/src/plist.rs` and checked byte reads), at source main `88d1d9cac852aec1c7fd97886db451e005e49d2a`. MIT OR Apache-2.0; source license texts are retained in the crate. Primary import Git authors preserve Brandon Thomas, BFlat, RRFZ and Afloat. Regression imports preserve BFlat. XML, JSON projection, calendar formatting and app policy were not imported into the public API.
+
+`crates/tga/src/metadata_tests.rs` and metadata-boundary helpers in `crates/tga/src/lib.rs` are adapted from nuclearspike's FilmCraft #1932 at `e7842f76f887005c460c64a8ab51d59d086e6f27` (MIT OR Apache-2.0). Synthetic fixtures are original contributor test data; primary Git author retained.
+The XML reader in `crates/plist/src/xml.rs` and its base64 compatibility helper are ported from Craft Anything `8f3b775157d331dd31cfa4da911e26d8856b8c77` (same MIT OR Apache-2.0 source licenses). Brandon Thomas is the primary import author; retained hardening credits include Afloat, BFlat, Rahul, RRFZ and NetterSilver. The finite-real fix preserves gmrmad1 as author from Craft Anything #1905 (`d85e104f`); quoted-attribute/line-ending regressions preserve RRFZ. Bounds/adaptation and bounded entity scanning are subsequent Dylan M. Taylor changes. App-specific JSON projections and keyed-archive interpretation remain outside this crate.
+
+## Score serializers
+
+`crates/score` extracts SoundCraft MusicXML and SVG score writing from `crates/engine/src/score.rs` at main `648ed9db9a0e98cc55643babffac381521a556c8`, with per-pitch ties adapted from [SoundCraft #182](https://github.com/storytold/soundcraft/pull/182) at `21cb618d93ec0e8d4771ac534994de8d5996ff10`. Source is MIT OR Apache-2.0. Import commits preserve Brandon Thomas, NetterSilver, Samuel Bacaro and Vikram Bhaskaran as primary authors of their respective changes. The consumer retains session mapping and layout. Shared API wiring, validation and focused tests are subsequent Dylan M. Taylor changes.
+
+## Source-timed MIDI compatibility
+
+`crates/midi/src/source_timed.rs` is extracted from LoopCraft `crates/midi/src/lib.rs` at `884e67c24b9b68badf6a4a4f7d62492f3673d354` (MIT OR Apache-2.0). The recorded source history for the extracted file is Dylan M. Taylor (`0d150c1f`, `440bc7ed`, `9e50523d`); Git authorship is preserved. It includes the original hostile-file, SMPTE, timing and round-trip tests. UTF-8 truncation and event-budget suffix repairs are subsequent changes. The module is an application-independent source-timed model; it does not depend on LoopCraft.
+## Non-seeking WAV primitives
+
+`crates/audio/src/wav_stream.rs` is extracted from AniCraft `crates/audio/src/wav.rs` at `d875a7feb250e6ab06aa28a37fb78a0699e88330` (MIT OR Apache-2.0). Tanish Manku is retained as the primary import author, from original commit `30c121d269a49d9abe54a3834ed4aa0201542535`. Odd-data padding accounting, shared API documentation and regression tests are subsequent Dylan M. Taylor changes.
+
+## Audio DSP
+
+`crates/audio-dsp` combines FilmCraft `crates/audio-dsp` at `3f137a7ed420cac79b32145f5243b7f98b31f71c` and SoundCraft `crates/dsp` at `648ed9db9a0e98cc55643babffac381521a556c8` (both MIT OR Apache-2.0). `crates/audio-dsp/NOTICE` keeps the copyright notices of both projects.
+
+## GIMP palette reader
+
+`crates/palette` extracts the GPL text parser from AniCraft `crates/doc/src/swatch.rs` at `d875a7feb250e6ab06aa28a37fb78a0699e88330` (MIT OR Apache-2.0), introduced by Tanish Manku in `a64130a9da9bdde545463b852d95d6a6774b1dfd` (AniCraft #270). The import preserves Tanish as primary author. Neutral RGB/name adaptation separates application display-name sanitization and the `Untitled` policy; validation tests and integration are subsequent Dylan M. Taylor changes.
+
+The legacy ZIP Zstandard method-20 mapping and bounded-read regression in `crates/zip/src/lenient` are ported from RRFZ's Craft Anything commit `29badae7c9280fdf4c24795927bf3a91f51694c6` (MIT OR Apache-2.0). RRFZ remains the primary Git author. Firmware scanner detection remains app-owned and is not part of this port.
+## TAR/CPIO compatibility updates
+
+The old GNU sparse-extension traversal, GNU CRC-symlink compatibility and PAX-size precedence fixes and their regression tests in `crates/tar` are ported from RRFZ's Craft Anything PRs #1973 (`8ea2ec66a1bc80f0420f3695baac877a0cb9b9a5`), #1984 (`b226a475f7dce9710e3af7a069386fe7a9720df7`) and #2007 (`d29465c20b0d570ea4973be512a0cb4e212bb60f`). Source is MIT OR Apache-2.0; RRFZ remains the primary Git author of each port. The PAX update adapts to the shared parser's existing `PaxOverrides` structure without changing the source policy.
+
+## Aligned stored ZIP entries
+
+The USDZ alignment requirement and compatibility fixture for `Writer::add_stored_aligned` come from TextureCraft `crates/formats/src/mesh_export/usd.rs`, introduced by bflatastic in `bdbb52c9` and maintained through `9eb20086` (MIT OR Apache-2.0). The shared API and alignment validation are subsequent Dylan M. Taylor work. Scene/material mapping remains in TextureCraft.
+
+The raw gradient wire ordering in `craft-lottie::Gradient::flat_values` follows
+AniCraft's Lottie exporter by Tanish Manku (`63b39355`, `b9258b7b`), MIT OR Apache-2.0.
+Sanitization, animation fitting and numeric output policy remain caller-owned.
+
+## Screen Video key frames
+
+`crates/video/src/screen_video.rs` extracts AniCraft `crates/xfl/src/video.rs` codec-3 decoding and its synthetic partial-block fixture, introduced by Tanish Manku in `1f3e603b7ff53a3da364e41ec4da8d43dc83aab0` with pixel-loop cleanup `2b7571363b4b647266df758f95b6e397021cfd4d` (MIT OR Apache-2.0). Import commits preserve Tanish as primary author. Caller-owned bounds and neutral RGBA output separate codec work from the consuming app's FLV first-frame/report policy. Boundary tests and integration are subsequent Dylan M. Taylor changes.
+
+## Source Map v3 parser and lookup
+
+`crates/sourcemap` extracts the bounded parser, source inventory and generated-position lookup from Craft Anything `crates/formats/src/sourcemap.rs` at `e5c9c94106747ed44b9a3fb0decce867c2285f93` (MIT OR Apache-2.0). Core-history ports preserve Brandon Thomas, BFlat, Afloat, RRFZ, Nicolas Bohn and Alex Joaquim Pereira as primary authors, with exact source revisions in each commit. Six regression files preserve their source authors; nine core unit tests retain the original tests. App annotation scanning, data URLs, base64 and file I/O are intentionally not imported. Workspace wiring is a subsequent change; existing limits and errors are unchanged.
+## JSONC span-preserving editing
+
+`crates/jsonc` is extracted from Craft Anything `crates/formats/src/jsonc.rs` at `e5c9c94106747ed44b9a3fb0decce867c2285f93` (MIT OR Apache-2.0). The original implementation and hardening by BFlat, newline preservation by NetterSilver, and subsequent RRFZ/Afloat correctness fixes retain separate primary-author port commits with immutable source revisions. Shared API wiring and optional input-byte admission are subsequent changes. Compatibility parsing and all existing formatting/editing tests are retained; application file I/O and policy are not imported.
+
+## XFA XML DOM
+
+`crates/xfa/src/xml.rs` is extracted from PDFCraft at `271e479c53723b1b294c866d5cb2f27604601b29`, originally by Dylan M. Taylor (`eead4541`, `7d44e654`), MIT OR Apache-2.0. The initial extraction changes visibility and module boundaries; subsequent namespace-retention budget hardening intentionally tightens resource admission. PDF/layout/form policy remains in the app.
+
+## Java class inspection
+
+`crates/java-class` extracts Craft Anything `java_class.rs` and `java_ops.rs` at `5979f9b13f16dcf1df3c7ae7f8e7735f452866f2` (MIT OR Apache-2.0), preserving separate primary-author source-history ports by Brandon Thomas, BFlat, Afloat and RRFZ. The checked byte-reader, modified UTF-8 unit decoder, descriptor display helper and synthetic class fixtures come from the same source snapshot. Seven regression files retain their source authors. Neutral error wiring and shared crate integration are subsequent changes. No JAR archive, application I/O or bytecode execution is imported.
+
+## WebAssembly inspection
+
+`crates/wasm` extracts Craft Anything `crates/formats/src/wasm.rs` at `5979f9b13f16dcf1df3c7ae7f8e7735f452866f2`, with its checked byte-reader subset and original synthetic WASM/testkit fixtures (MIT OR Apache-2.0). Eight core-history ports preserve Brandon Thomas, Afloat and RRFZ as primary authors; component, repeated-custom-section and referenced-string regression imports retain source authors and commit references. Fixtures come from `crates/testkit/src/formats.rs` and deterministic mutation helpers from `crates/testkit/src/lib.rs`; no third-party binaries. Shared error naming and workspace wiring are subsequent changes. Existing inspection limits and report behavior are unchanged; this crate validates/inspects/renders, never executes modules.
+
+## Packet capture and protocol inspection
+
+`crates/pcap` extracts Craft Anything `crates/formats/src/pcap.rs`, its checked byte reader primitives and synthetic packet fixtures/regressions at `5979f9b13f16dcf1df3c7ae7f8e7735f452866f2` (MIT OR Apache-2.0). Brandon Thomas introduced the implementation, byte reader and fixtures in `f64ae3bf3c8863a982af1304e06de20653803968`. Subsequent fixes by phatloi0010, GGWA, BFlat, Afloat, NetterSilver, Max Mittelstädt and RRFZ retain separate primary-author source-history commits with immutable source revisions. Shared error/API wiring and chrono-based timestamp formatting with exhaustive day-boundary parity tests are subsequent Dylan M. Taylor changes. No packet reassembly, decryption, live capture or app analysis policy is imported.
+## HTTP Archive reader
+
+`crates/har` preserves Craft Anything `crates/formats/src/har.rs` from `5979f9b13f16dcf1df3c7ae7f8e7735f452866f2` (MIT OR Apache-2.0). Brandon Thomas introduced the typed reader in `f64ae3bf3c8863a982af1304e06de20653803968`; BFlat added UTF-8 BOM compatibility in `cb0bb9d8fa4536ba44ef2c86f5ed759b879cc2d3`. Both source snapshots retain primary author attribution. Shared wiring, explicit byte admission and its tests are subsequent Dylan M. Taylor changes. Redaction and analysis remain app-owned.
+
+## Dalvik DEX inspection
+
+`crates/dex` extracts Craft Anything `crates/formats/src/dex.rs` and `dex_ops.rs` at `5979f9b13f16dcf1df3c7ae7f8e7735f452866f2` (MIT OR Apache-2.0). Five source-history ports preserve Brandon Thomas, BFlat and Afloat as primary authors. Five regression imports retain BFlat/Afloat authors and exact source revisions. The checked byte-reader/MUTF-8 subset and synthetic DEX fixture come from that app's `bytes.rs` and `testkit/src/android.rs`; deterministic noise/mutations come from its testkit. No application file I/O, APK logic or execution is imported. Shared neutral errors and workspace wiring are subsequent changes; existing per-file strings, member/handler and bytecode payload budgets are retained.
+
+## EVM bytecode inspection
+
+`crates/evm` extracts Craft Anything `crates/formats/src/evm.rs` at `a31e995858f4312e0f1d59a007112da191ef2d26` (MIT OR Apache-2.0). Eight separate source-history ports preserve Brandon Thomas, Afloat, RRFZ and NetterSilver as primary authors with immutable source references. Synthetic EVM fixtures and deterministic mutation helpers come from the same app source; regression files retain their source provenance. Neutral errors and workspace integration are subsequent changes. No code execution or transaction behavior is imported.
+
+## XFDF field reader
+
+`crates/xfdf` extracts PDFCraft field reading from #5937 refresh `cb564fd827f572818e9ddb0ea5989a432b1f39fd` (MIT OR Apache-2.0). App-side annotation and form policy remains local; source history is retained in the original repository.
+
+Retained XFDF source contributors (move-aware blame): Brandon Thomas, Marco Arnulfo, pkibiego and storybored379; module split by aiongg. Subsequent budget/integration work by Dylan M. Taylor.
+
+## Y4M range-backed playback
+
+`crates/media-source/src/y4m.rs` adapts the in-house [FilmCraft Y4mSource at 3f137a7e](https://github.com/storytold/filmcraft/blob/3f137a7ed420cac79b32145f5243b7f98b31f71c/crates/codecs/src/y4m.rs), MIT OR Apache-2.0. Original playback by Lloyd Nicholson ([FilmCraft #1303](https://github.com/storytold/filmcraft/pull/1303)); shared-parser integration by Dylan M. Taylor ([FilmCraft #4862](https://github.com/storytold/filmcraft/pull/4862)). The adaptation changes source/frame types and declines payloads above the shared media allocation ceiling before playback. The parser and its previous header-safety work remain in `craft-y4m` ([craft-libs #933](https://github.com/storytold/craft-libs/pull/933)).
+
+`crates/media-source/tests/it/y4m.rs` contains original repository-authored synthetic test data under MIT OR Apache-2.0: literal YUV samples and a sparse reader that reports only the length of an oversized frame. It does not use external media or decoder output.
+
+
 ----- e32ff4e00d9d94930537635291da39e7e612703334bf6fde8c7f1686fe8a45a2 -----
 Copyright notice:
 
@@ -13178,6 +13969,76 @@ IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 
 
+----- eba684204073ed715c4abb48129acdfd2bff8ae48339e6a7da3b341d3027b7f0 -----
+Apache License
+
+Version 2.0, January 2004
+
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+
+"Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+
+"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+
+"Work" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+
+"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+
+"Contribution" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
+
+"Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+
+2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+
+3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
+
+4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
+
+You must give any other recipients of the Work or Derivative Works a copy of this License; and
+You must cause any modified files to carry prominent notices stating that You changed the files; and
+You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
+
+You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
+5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
+
+6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+
+7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
+
+8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+
+9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+
+END OF TERMS AND CONDITIONS
+
+Copyright 2019 Fontations Developers
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
 ----- ec353d4fecf7963b4c054384557e5dbc3c7a717997eb4a3815b315721a6aa75a -----
 Copyright 2018 Parity Technologies (UK) Ltd.
 
@@ -13488,6 +14349,30 @@ authorization of the copyright holder.
 
 
 ----- f9c4c77baa3828004ee54b8a4f2db2e88ed44a6237a493965bf551fac0fcb62d -----
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+----- fa0d694967d5c279e70a5c7b7e4b9929e4c1c8c1b8506998e66fc2f1547b200a -----
+MIT License
+
+Copyright (c) 2017 Maiddog
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights

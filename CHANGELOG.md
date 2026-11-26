@@ -2,6 +2,59 @@
 
 Notable changes in public Artlab releases, newest first.
 
+## 0.8.0-alpha.1 — 2026-11-26
+
+This Linux alpha adds a layer tree for composing artwork and applying effects
+to individual layers and groups.
+
+- Put photos, SVG artwork, shapes and editable text on one canvas.
+- Select, move, group, lock and arrange layers. Each completed move is one
+  Undo step.
+- Export the canvas, all visible artwork, or just the selected visible layers.
+
+### Added
+
+- Start a transparent canvas in pixels, millimetres or inches. Choose a paper
+  size from A0 to A6 and set its orientation and resolution, or change an
+  existing canvas with **Canvas → Page size**.
+- Place another picture without changing the canvas size. Place SVG artwork
+  with outlined text and embedded images, and render it at export size.
+- Draw rectangles and ellipses, and place editable lines of text with **T**.
+  Choose from bundled fonts and supported local fonts. Artlab reports when
+  a saved font is unavailable, shows Space Grotesk in its place and keeps
+  the original font choice in the project.
+- Move layers with **V** or the arrow keys. Resize and turn pictures and
+  shapes, set exact values in Properties, and align or space layers on the
+  canvas or relative to one another.
+- Hide or lock layers and groups in Layers. Make a copy with **Ctrl+J**, or
+  hold **Alt** while dragging to place the copy. Paste copied layers into
+  the same document or another open document.
+- Apply effects directly to a layer or group. Click the effect's row to adjust
+  it in Properties or on the canvas.
+- Turn on pixel rulers with **Ctrl+R**. They follow the visible page after
+  a crop, turn or reflection.
+- Open kept versions with the star in the top bar. Compare each with the
+  current version, continue from it, or open it as a separate project.
+
+### Changed
+
+- **Effects** is the tool formerly called **Layers** and still uses **L**.
+  **Layers** is the panel, which shows artwork, groups and nested effect rows.
+- **Export as…** starts with **Canvas**. Select **All visible artwork** to
+  include artwork beyond the page, or **Selected visible layers** to export
+  the current selection. The dialog names group effects that block an
+  off-page export. **File → Export** (**Ctrl+E**) saves a full-size PNG of
+  the page in Exports.
+- The options bar puts controls that don't fit under **More**. Drag a panel's
+  tab out of the dock to float it within the editor.
+
+### Upgrade notes
+
+This version opens .artlab project format 7. Projects from the public 0.7 alpha
+are older. Artlab leaves those files intact and explains why they cannot open.
+Finish or export any 0.7 work you need before installing 0.8. You can open
+finished PNG, JPEG and WebP exports as images in 0.8.
+
 ## 0.7.0-alpha.1 — 2026-11-21
 
 The first public Rust release brings 46 effects to the new editor. The free
