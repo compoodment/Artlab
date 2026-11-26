@@ -27,21 +27,18 @@ Artlab's source code isn't public.
 | Windows | No public package in this release |
 
 1. Download [`artlab_0.8.0-alpha.1_amd64.deb`](https://github.com/compoodment/Artlab/releases/download/v0.8.0-alpha.1/artlab_0.8.0-alpha.1_amd64.deb).
-2. In a terminal in the folder containing the `.deb`, run `sha256sum artlab_0.8.0-alpha.1_amd64.deb`.
-   Compare the value printed before the filename with the entry for that file in
-   [`SHA256SUMS`](https://github.com/compoodment/Artlab/releases/download/v0.8.0-alpha.1/SHA256SUMS).
-3. Open the verified `.deb` in your software installer and choose **Install**. If the file opens in an
-   archive viewer, run the install command in the same terminal.
+2. Open the downloaded file and choose **Install**.
+3. Find Artlab in your applications menu.
 
-   ```sh
-   sudo apt install ./artlab_0.8.0-alpha.1_amd64.deb
-   ```
+### Check the download
 
-4. Open the editor from the applications menu. The [guide](https://artlab.putment.com/docs/) walks through
-   opening an image and saving your work.
+To check the file before installing, run `sha256sum artlab_0.8.0-alpha.1_amd64.deb` in the folder that holds it
+and compare the result with the line for that file in
+[`SHA256SUMS`](https://github.com/compoodment/Artlab/releases/download/v0.8.0-alpha.1/SHA256SUMS).
 
-The installer adds the app icon and registers `.artlab` projects with the file manager. HEIC import requires
-the optional `libheif1` package at version 1.23.6 or later in the 1.x series, with an HEVC decoder.
+If the file opens in an archive viewer instead of an installer, install it from that folder with
+`sudo apt install ./artlab_0.8.0-alpha.1_amd64.deb`. Opening HEIC photos needs `libheif1` 1.23.6 or later with
+an HEVC decoder.
 
 To remove Artlab, remove it in your software installer or run `sudo apt remove artlab`. Your projects and exports
 stay in your folders.
