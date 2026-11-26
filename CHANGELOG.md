@@ -2,6 +2,24 @@
 
 Notable changes in public Artlab releases, newest first.
 
+## 0.8.0-alpha.2 — 2026-11-26
+
+This Linux update fixes a save and export restriction in the preview
+launchers. Choose any folder where you have permission to write.
+
+- Open starts in the desktop’s Pictures folder on a fresh profile.
+  Save As and Export use the desktop’s Documents and Pictures settings
+  for their default folders.
+- Artlab looks for fonts installed on the system to display Chinese,
+  Japanese and Korean names in the editor.
+
+### Upgrade notes
+
+This update still opens .artlab project format 7, used by 0.8.0-alpha.1
+and Preview 2. The packaged app uses the same profile as the previous
+public package. If you tried the separate preview, choose **Artlab**
+in the applications menu and open your existing project from there.
+
 ## 0.8.0-alpha.1 — 2026-11-26
 
 This Linux alpha adds a layer tree for composing artwork and applying effects

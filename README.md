@@ -26,19 +26,23 @@ Artlab's source code isn't public.
 | Ubuntu 24.04 LTS (64-bit x86) | Linux desktop package |
 | Windows | No public package in this release |
 
-1. Download [`artlab_0.8.0-alpha.1_amd64.deb`](https://github.com/compoodment/Artlab/releases/download/v0.8.0-alpha.1/artlab_0.8.0-alpha.1_amd64.deb).
+1. Download [`artlab_0.8.0-alpha.2_amd64.deb`](https://github.com/compoodment/Artlab/releases/download/v0.8.0-alpha.2/artlab_0.8.0-alpha.2_amd64.deb).
 2. Open the downloaded file and choose **Install**.
-3. Find Artlab in your applications menu.
+3. Find **Artlab** in your applications menu.
+
+Artlab runs on X11. Wayland desktops need XWayland.
+If you see **Artlab 0.8 Preview 2** in your menu, choose **Artlab** to open
+the packaged version. You can open projects you made in Preview 2.
 
 ### Check the download
 
-To check the file before installing, run `sha256sum artlab_0.8.0-alpha.1_amd64.deb` in the folder that holds it
+To check the file before installing, run `sha256sum artlab_0.8.0-alpha.2_amd64.deb` in the folder that holds it
 and compare the result with the line for that file in
-[`SHA256SUMS`](https://github.com/compoodment/Artlab/releases/download/v0.8.0-alpha.1/SHA256SUMS).
+[`SHA256SUMS`](https://github.com/compoodment/Artlab/releases/download/v0.8.0-alpha.2/SHA256SUMS).
 
 If the file opens in an archive viewer instead of an installer, install it from that folder with
-`sudo apt install ./artlab_0.8.0-alpha.1_amd64.deb`. Opening HEIC photos needs `libheif1` 1.23.6 or later with
-an HEVC decoder.
+`sudo apt install ./artlab_0.8.0-alpha.2_amd64.deb`. Opening HEIC photos needs `libheif1` 1.23.6 or later with
+an HEVC decoder. Artlab explains if an HEIC photo cannot be opened.
 
 To remove Artlab, remove it in your software installer or run `sudo apt remove artlab`. Your projects and exports
 stay in your folders.
